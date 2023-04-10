@@ -1,0 +1,138 @@
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 390
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 391
+[25-Oct-2020 15:56:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 391
+[25-Oct-2020 15:56:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 392
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 412
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 416
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 418
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 422
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 431
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 435
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 437
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 441
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 449
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 453
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 455
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 459
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 492
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 493
+[25-Oct-2020 15:56:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 493
+[25-Oct-2020 15:56:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 494
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 533
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 534
+[25-Oct-2020 15:56:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 534
+[25-Oct-2020 15:56:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 535
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 561
+[25-Oct-2020 15:56:38 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 564
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 390
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 391
+[25-Oct-2020 15:56:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 391
+[25-Oct-2020 15:56:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 392
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 412
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 416
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 418
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 422
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 431
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 435
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 437
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 441
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 449
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 453
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 455
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 459
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 492
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 493
+[25-Oct-2020 15:56:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 493
+[25-Oct-2020 15:56:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 494
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 533
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 534
+[25-Oct-2020 15:56:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 534
+[25-Oct-2020 15:56:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 535
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 561
+[25-Oct-2020 15:56:55 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 564
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 390
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 391
+[25-Oct-2020 15:57:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 391
+[25-Oct-2020 15:57:17 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 392
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 412
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 416
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 418
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 422
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 431
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 435
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 437
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 441
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 449
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 453
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 455
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 459
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 492
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 493
+[25-Oct-2020 15:57:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 493
+[25-Oct-2020 15:57:17 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 494
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: tid in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 533
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: link in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 534
+[25-Oct-2020 15:57:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 534
+[25-Oct-2020 15:57:17 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 535
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 561
+[25-Oct-2020 15:57:17 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 564
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined index: track in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 412
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 578
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 591
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 592
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 596
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 614
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 619
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 637
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 642
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 649
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 667
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 671
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 676
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 750
+[25-Oct-2020 16:34:35 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 753
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined index: track in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 412
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 578
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 591
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 592
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 596
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 614
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 619
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 637
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 642
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 649
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 667
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 671
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 676
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 750
+[25-Oct-2020 16:35:23 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 753
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined index: track in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 412
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 573
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 586
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 587
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 591
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 609
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 614
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 632
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 637
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 644
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 662
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 666
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 671
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 745
+[25-Oct-2020 16:38:39 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 748
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined index: track in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 412
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 578
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 591
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 592
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 596
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 614
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 619
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 637
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 642
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 649
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 667
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 671
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 676
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 750
+[19-Nov-2020 06:06:57 America/New_York] PHP Notice:  Undefined variable: row in /home/scrirvom/public_html/aaa/primeshipping/result.php on line 753
