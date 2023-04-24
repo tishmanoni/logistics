@@ -280,8 +280,7 @@ function googleTranslateElementInit() {
 									</li>
 									<li>
 										<i class="bx bx-envelope"></i>
-										Email
-										<span>Odessa Logistics</span>
+										Email										<span>Odessa Log</span>
 									</li>
 									<li>
 										<i class="bx bxs-phone-call"></i>
